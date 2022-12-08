@@ -1,0 +1,23 @@
+Mandatory
+•	The system needs to be user friendly and initially can be accessible via desktop.
+•	Idea-driven approach - RM browses ideas, can view the related products and identify suitable clients.
+•	Client-driven approach - RM has client in mind, views the client summary, can find suitable products to suggest and ideas to propose.
+•	The following basic functionality should be available.
+o	Client profile setup and maintenance with the ability to identify investment preferences (e.g., product types, countries/regions, etc.).
+o	Set up and maintenance of investment products (e.g., equities, bonds, funds, derivatives, structured products, etc.). Tag the products to enable recommendations (e.g., product type, regions, etc.). 
+o	Set up and maintenance of investment ideas. Be able to link specific products to the idea and tag the ideas to enable recommendations.
+o	Recommend investment ideas for a specific client by comparing their investment preferences to the idea and product tags.  Display the idea(s) information to the RM.
+o	Select a specific investment idea and determine which clients the idea would be most suitable for by comparing the idea and product tags to the client preferences
+o	View the investment ideas created on the platform.
+
+Optional
+•	Access and evaluate the ideas on a mobile application.
+•	Sort, filter and search the investment ideas
+•	Limit what clients a specific RM can view.  For example, by being able to assign a RM to specific clients in the system.
+•	Add client holdings for specific products and use that to help determine what investment ideas would be appropriate for the client (e.g., do not want to buy products already hold).
+•	Adding expiry dates to an investment idea and automatically notifying RMs when close to the expiry date and not displaying when expired.
+•	Notify/alert on new/updated content that may be of interest.
+•	Displaying information related to a specific product.
+•	Search for a specific product or product type and show the investment ideas to which it is related.
+•	Product-driven approach - RM has a particular product in mind, can see related ideas and the clients they may be appropriate for.
+•	Display investment ideas based upon previous viewing activity of the client.
