@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFrontAPP.Home.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.Login.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.Signup_form.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.aboutusPage.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.ClientPage.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.Form5.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.Form6.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.Form7.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.Form8.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.Form9.resources
+C:\Users\LENOVO\source\repos\WealthFront\obj\Debug\netcoreapp3.1\WealthFront.Signup.resources
