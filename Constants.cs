@@ -28,7 +28,7 @@ namespace WealthFront
             (@sectorValue, @riskRatingValue, @commentsValue, @likeValue, @ideaDescriptionValue, @ideaTitleValue)
             ";
 
-        // inserts values the user enters on the registration form into the inspector table
+        // inserts values the user enters on the registration form into the registrationquery table
         public static string RegistrationQuery_CHECK = @"
             INSERT
             INTO User
